@@ -44,6 +44,9 @@ go run main.go
 # Endpoints
 - API Add product
 - API List product dengan sorting
+- ---
+- API Update product
+- API Delete product
 
 ## Products
 
