@@ -7,7 +7,7 @@ Semua Endpoint pada aplikasi ini diuji menggukan Aplikasi [Postman](https://www.
 **1. Mengunduh project**
 ```bash
 # mengunduh project ke GOPATH/src
-go get github.com/hafizarr/gorestapi
+git clone https://github.com/hafizarr/gorestapi.git
 
 ```
 
@@ -16,7 +16,7 @@ go get github.com/hafizarr/gorestapi
 #### Linux
 ```bash
 # pindah ke folder GOPATH
-cd $GOPATH/github.com/hafizarr/gorestapi
+cd $GOPATH/gorestapi
 
 # import table
 import file import-table.sql ke database 
@@ -31,7 +31,7 @@ go run main.go
 #### Windows
 ```bash
 # pindah ke folder GOPATH
-cd %GOPATH%\src\github.com/hafizarr/gorestapi
+cd %GOPATH%\gorestapi
 
 # import table
 import file import-table.sql ke database 
