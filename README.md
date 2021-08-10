@@ -225,6 +225,6 @@ POST     http://localhost:7000/products/create
 ```
 Contoh :
 
-![source code.](https://github.com/hafizarr/gorestapi/assets/uploads/ss.png)
+![source code.](https://github.com/hafizarr/gorestapi/blob/main/assets/uploads/ss.png)
 
 ```
