@@ -218,3 +218,13 @@ Respond :
 ]
 
 ```
+
+Contoh POST Product :
+```http
+POST     http://localhost:7000/products/create
+```
+Contoh :
+
+![source code.](https://github.com/hafizarr/gorestapi/assets/uploads/ss.png)
+
+```
