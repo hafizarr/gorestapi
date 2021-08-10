@@ -223,7 +223,7 @@ Contoh POST Product :
 ```http
 POST     http://localhost:7000/products/create
 ```
-Contoh :
+Postman view :
 
 ![source code.](https://github.com/hafizarr/gorestapi/blob/main/assets/uploads/ss.png)
 
