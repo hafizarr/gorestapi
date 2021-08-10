@@ -19,7 +19,8 @@ go get github.com/hafizarr/gorestapi
 cd $GOPATH/github.com/hafizarr/gorestapi
 
 # import table
-import file products.sql ke database 
+import file import-table.sql ke database 
+sesuaikan pengaturan database pada file config/config.go
 
 # Memulai aplikasi
 make start
@@ -33,7 +34,8 @@ go run main.go
 cd %GOPATH%\src\github.com/hafizarr/gorestapi
 
 # import table
-import file products.sql ke database 
+import file import-table.sql ke database 
+sesuaikan pengaturan database pada file config/config.go
 
 # Memulai aplikasi
 go run main.go
